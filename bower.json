@@ -7,7 +7,7 @@
   ],
   "main": [
     "./src/bootstrap-markdown-editor.js",
-    "./src/bootstrap-markdown-editor.less"
+    "./dist/css/bootstrap-markdown-editor.css"
   ],
   "keywords": ["markdown", "bootstrap", "editor", "ace"],
   "license": "MIT",
