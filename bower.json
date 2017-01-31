@@ -1,9 +1,13 @@
 {
   "name": "bootstrap-markdown-editor",
   "description": "Markdown editor for Bootstrap with preview, image upload support, shortcuts and other features.",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "authors": [
     "Ignacio de Tomás <nacho@inacho.es>"
+  ],
+  "main": [
+    "./src/bootstrap-markdown-editor.js",
+    "./src/bootstrap-markdown-editor.css"
   ],
   "keywords": ["markdown", "bootstrap", "editor", "ace"],
   "license": "MIT",
